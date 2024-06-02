@@ -1,6 +1,6 @@
 package com.example.gongmobile.api.model;
 
-public class ListedPromoCode {
+public class ListedCoupon {
     private final int id;
     private final String title;
     private final String description;
@@ -19,7 +19,7 @@ public class ListedPromoCode {
         return description;
     }
 
-    public ListedPromoCode(int id, String title, String description, int lifespanInMinutes) {
+    public ListedCoupon(int id, String title, String description, int lifespanInMinutes) {
         this.id = id;
         this.title = title;
         this.description = description;
