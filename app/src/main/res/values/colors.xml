@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
+    <color name="gong_blue_dark">#FF163172</color>
+    <color name="gong_blue_light">#FF1E56A0</color>
+    <color name="gong_azure">#FFD6E4F0</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="transparent">#00000000</color>
 </resources>
